@@ -1,0 +1,6 @@
+{
+  "name": "New message",
+  "description": "New message (NM) - Real-time text chat platform with unique usernames, instant messaging, presence, search, and clean Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
